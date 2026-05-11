@@ -4,6 +4,8 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 
+// 基礎プログラミングII 第3回 Scrummyプロジェクト
+
 public class GameManager : MonoBehaviour
 {
     [Header("UI")]
